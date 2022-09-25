@@ -3,4 +3,9 @@ la-la-la
 
 
 wery happy song
+<<<<<<< HEAD
 la-la-laaaaaa
+=======
+
+some info
+>>>>>>> 2a0b2d4c7c5dd94d59a42e3077e124f5630292a0
